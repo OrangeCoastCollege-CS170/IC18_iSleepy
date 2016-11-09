@@ -1,4 +1,12 @@
 package edu.orangecoastcollege.sbadajoz.ic18;
+/*
+Badajoz, Seve
+CS A170
+November 2, 2016
+
+IC18
+*/
+
 
 import java.text.DecimalFormat;
 import java.util.Scanner;
